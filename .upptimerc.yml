@@ -9,6 +9,8 @@ sites:
     url: https://tischlerei-bahrenberg.de
   - name: CMS
     url: https://cms.tecios.de
+  - name: Proxy
+    url: https://voyage.burban.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
