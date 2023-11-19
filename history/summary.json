@@ -4,28 +4,30 @@
     "url": "https://burban.me",
     "icon": "https://icons.duckduckgo.com/ip3/burban.me.ico",
     "slug": "webcv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 512,
     "timeWeek": 653,
     "timeMonth": 652,
     "timeYear": 663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 3
+    }
   },
   {
     "name": "Tischlerei",
     "url": "https://tischlerei-bahrenberg.de",
     "icon": "https://icons.duckduckgo.com/ip3/tischlerei-bahrenberg.de.ico",
     "slug": "tischlerei",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 899,
@@ -33,7 +35,9 @@
     "timeWeek": 835,
     "timeMonth": 961,
     "timeYear": 899,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 2
+    }
   },
   {
     "name": "CMS",
@@ -41,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms.tecios.de.ico",
     "slug": "cms",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 631,
     "timeDay": 473,
     "timeWeek": 683,
@@ -61,18 +65,19 @@
     "url": "https://voyage.burban.me",
     "icon": "https://icons.duckduckgo.com/ip3/voyage.burban.me.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "96.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.13%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.75%",
-    "uptimeYear": "96.11%",
+    "uptimeYear": "96.13%",
     "time": 454,
     "timeDay": 317,
     "timeWeek": 479,
     "timeMonth": 463,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2023-11-19": 0,
       "2023-10-24": 996,
       "2023-10-23": 864
     }
