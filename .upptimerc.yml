@@ -8,7 +8,7 @@ sites:
   - name: Tischlerei
     url: https://tischlerei-bahrenberg.de
   - name: CMS
-    url: https://cms.tecios.de
+    url: https://cms.burban.me
   - name: Proxy
     url: https://voyage.burban.me
 
