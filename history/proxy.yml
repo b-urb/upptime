@@ -1,7 +1,7 @@
 url: https://voyage.burban.me
-status: up
-code: 200
-responseTime: 459
-lastUpdated: 2024-04-05T23:03:56.420Z
+status: down
+code: 502
+responseTime: 377
+lastUpdated: 2024-04-06T18:32:22.345Z
 startTime: 2023-10-16T19:38:16.985Z
 generator: Upptime <https://github.com/upptime/upptime>
