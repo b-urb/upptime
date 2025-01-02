@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Webcv
-    url: https://burban.me
+    url: https://burbn.de
   - name: Tischlerei
     url: https://tischlerei-bahrenberg.de
   - name: CMS
-    url: https://cms.burban.me
+    url: https://cms.burbn.de
   - name: Proxy
-    url: https://voyage.burban.me
+    url: https://voyage.burbn.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
