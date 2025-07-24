@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 874,
-    "timeDay": 806,
-    "timeWeek": 954,
-    "timeMonth": 962,
-    "timeYear": 909,
+    "timeDay": 838,
+    "timeWeek": 970,
+    "timeMonth": 966,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2025-01-03": 652,
       "2025-01-02": 173,
@@ -34,9 +34,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 787,
-    "timeDay": 622,
-    "timeWeek": 789,
+    "time": 786,
+    "timeDay": 618,
+    "timeWeek": 799,
     "timeMonth": 768,
     "timeYear": 806,
     "dailyMinutesDown": {
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 633,
-    "timeDay": 621,
-    "timeWeek": 676,
-    "timeMonth": 685,
+    "timeDay": 625,
+    "timeWeek": 692,
+    "timeMonth": 688,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2025-01-03": 598,
@@ -76,14 +76,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/voyage.burbn.de.ico",
     "slug": "proxy",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.76%",
     "time": 491,
-    "timeDay": 488,
-    "timeWeek": 540,
+    "timeDay": 405,
+    "timeWeek": 538,
     "timeMonth": 535,
     "timeYear": 503,
     "dailyMinutesDown": {
@@ -91,8 +91,7 @@
       "2025-01-02": 82,
       "2024-12-06": 26,
       "2024-10-09": 24,
-      "2024-07-26": 168,
-      "2024-07-24": 403
+      "2024-07-26": 168
     }
   }
 ]
