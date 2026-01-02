@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/burbn.de.ico",
     "slug": "webcv",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "73.11%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "86.39%",
-    "uptimeYear": "98.71%",
-    "time": 940,
+    "uptime": "99.26%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "81.34%",
+    "uptimeMonth": "83.11%",
+    "uptimeYear": "98.44%",
+    "time": 939,
     "timeDay": 0,
-    "timeWeek": 2390,
-    "timeMonth": 1363,
+    "timeWeek": 2527,
+    "timeMonth": 1375,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2026-01-01": 16,
+      "2026-01-02": 15,
+      "2026-01-01": 1440,
       "2025-12-31": 371,
       "2025-12-30": 55,
       "2025-12-24": 20,
@@ -25,8 +26,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 655,
-      "2025-01-03": 652,
-      "2025-01-02": 173
+      "2025-01-03": 652
     }
   },
   {
@@ -40,11 +40,11 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "99.70%",
-    "time": 886,
-    "timeDay": 1009,
-    "timeWeek": 1372,
-    "timeMonth": 1806,
-    "timeYear": 896,
+    "time": 887,
+    "timeDay": 1323,
+    "timeWeek": 1387,
+    "timeMonth": 1808,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-12-30": 53,
       "2025-12-24": 314,
@@ -64,15 +64,14 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.82%",
     "time": 678,
-    "timeDay": 529,
-    "timeWeek": 1607,
-    "timeMonth": 1025,
+    "timeDay": 656,
+    "timeWeek": 1591,
+    "timeMonth": 1024,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-12-30": 47,
       "2025-12-24": 115,
-      "2025-01-03": 598,
-      "2025-01-02": 173
+      "2025-01-03": 598
     }
   },
   {
@@ -83,14 +82,14 @@
     "status": "up",
     "uptime": "95.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "18.95%",
+    "uptimeWeek": "33.22%",
     "uptimeMonth": "30.11%",
     "uptimeYear": "94.05%",
-    "time": 545,
-    "timeDay": 486,
-    "timeWeek": 2716,
-    "timeMonth": 1098,
-    "timeYear": 562,
+    "time": 544,
+    "timeDay": 514,
+    "timeWeek": 2161,
+    "timeMonth": 1097,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2025-12-30": 986,
       "2025-12-29": 1440,
@@ -114,8 +113,7 @@
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 828,
-      "2025-01-03": 568,
-      "2025-01-02": 82
+      "2025-01-03": 568
     }
   }
 ]
