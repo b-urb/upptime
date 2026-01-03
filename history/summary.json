@@ -6,14 +6,14 @@
     "slug": "webcv",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "68.15%",
     "uptimeWeek": "76.80%",
     "uptimeMonth": "82.06%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.38%",
     "time": 939,
-    "timeDay": 959,
-    "timeWeek": 2370,
-    "timeMonth": 1363,
+    "timeDay": 928,
+    "timeWeek": 2387,
+    "timeMonth": 1361,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2026-01-02": 472,
@@ -25,8 +25,7 @@
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
-      "2025-12-07": 655,
-      "2025-01-03": 652
+      "2025-12-07": 655
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "99.70%",
     "time": 887,
-    "timeDay": 1323,
-    "timeWeek": 1387,
+    "timeDay": 915,
+    "timeWeek": 1381,
     "timeMonth": 1808,
-    "timeYear": 898,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2025-12-30": 53,
       "2025-12-24": 314,
@@ -62,16 +61,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.82%",
-    "time": 678,
-    "timeDay": 656,
-    "timeWeek": 1591,
+    "uptimeYear": "99.86%",
+    "time": 679,
+    "timeDay": 662,
+    "timeWeek": 1110,
     "timeMonth": 1024,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-12-30": 47,
-      "2025-12-24": 115,
-      "2025-01-03": 598
+      "2025-12-24": 115
     }
   },
   {
@@ -80,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/voyage.burbn.de.ico",
     "slug": "proxy",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.76%",
+    "uptimeWeek": "47.49%",
     "uptimeMonth": "30.11%",
-    "uptimeYear": "94.05%",
+    "uptimeYear": "94.07%",
     "time": 544,
-    "timeDay": 514,
-    "timeWeek": 2161,
-    "timeMonth": 1097,
+    "timeDay": 525,
+    "timeWeek": 1622,
+    "timeMonth": 1096,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-12-30": 986,
@@ -112,8 +110,7 @@
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
-      "2025-12-09": 828,
-      "2025-01-03": 568
+      "2025-12-09": 828
     }
   }
 ]
