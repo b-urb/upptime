@@ -1,7 +1,7 @@
 url: https://burbn.de
-status: up
-code: 200
-responseTime: 2565
-lastUpdated: 2026-09-21T20:36:19.171Z
+status: down
+code: 500
+responseTime: 692
+lastUpdated: 2026-09-21T21:52:51.690Z
 startTime: 2023-09-25T21:00:24.368Z
 generator: Upptime <https://github.com/upptime/upptime>
