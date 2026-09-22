@@ -4,17 +4,17 @@
     "url": "https://burbn.de",
     "icon": "https://icons.duckduckgo.com/ip3/burbn.de.ico",
     "slug": "webcv",
-    "status": "down",
+    "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "93.29%",
-    "time": 944,
-    "timeDay": 1506,
-    "timeWeek": 1279,
-    "timeMonth": 1037,
-    "timeYear": 960,
+    "time": 948,
+    "timeDay": 1606,
+    "timeWeek": 1349,
+    "timeMonth": 1073,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2025-12-11": 523,
       "2025-12-10": 1440,
@@ -47,7 +47,7 @@
       "2026-01-13": 1377,
       "2026-09-21": 333,
       "2026-09-20": 78,
-      "2026-09-22": 65
+      "2026-09-22": 84
     }
   },
   {
@@ -79,16 +79,16 @@
     "url": "https://cms.burbn.de",
     "icon": "https://icons.duckduckgo.com/ip3/cms.burbn.de.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.87%",
     "time": 761,
-    "timeDay": 537,
-    "timeWeek": 626,
-    "timeMonth": 825,
+    "timeDay": 579,
+    "timeWeek": 646,
+    "timeMonth": 829,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2025-12-24": 115,
@@ -97,7 +97,7 @@
       "2026-09-13": 15,
       "2026-09-21": 333,
       "2026-09-20": 78,
-      "2026-09-22": 65
+      "2026-09-22": 83
     }
   },
   {
