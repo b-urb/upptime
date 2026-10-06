@@ -4,17 +4,17 @@
     "url": "https://burbn.de",
     "icon": "https://icons.duckduckgo.com/ip3/burbn.de.ico",
     "slug": "webcv",
-    "status": "down",
+    "status": "up",
     "uptime": "97.69%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "93.28%",
-    "time": 994,
-    "timeDay": 1666,
-    "timeWeek": 1892,
-    "timeMonth": 1552,
-    "timeYear": 1041,
+    "time": 996,
+    "timeDay": 1744,
+    "timeWeek": 1893,
+    "timeMonth": 1557,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-12-11": 523,
       "2025-12-10": 1440,
@@ -50,7 +50,7 @@
       "2026-09-22": 84,
       "2026-09-28": 34,
       "2026-09-29": 18,
-      "2026-10-06": 1
+      "2026-10-06": 13
     }
   },
   {
@@ -82,16 +82,16 @@
     "url": "https://cms.burbn.de",
     "icon": "https://icons.duckduckgo.com/ip3/cms.burbn.de.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.86%",
     "time": 745,
-    "timeDay": 505,
-    "timeWeek": 605,
-    "timeMonth": 742,
+    "timeDay": 612,
+    "timeWeek": 630,
+    "timeMonth": 744,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-12-24": 115,
@@ -103,7 +103,7 @@
       "2026-09-22": 83,
       "2026-09-28": 33,
       "2026-09-29": 18,
-      "2026-10-06": 1
+      "2026-10-06": 13
     }
   },
   {
@@ -114,9 +114,9 @@
     "status": "down",
     "uptime": "96.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.41%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "93.63%",
+    "uptimeWeek": "71.28%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "93.62%",
     "time": 544,
     "timeDay": 0,
     "timeWeek": 438,
@@ -145,7 +145,7 @@
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 828,
-      "2026-10-06": 1277,
+      "2026-10-06": 1290,
       "2026-10-05": 1440,
       "2026-10-04": 165
     }
